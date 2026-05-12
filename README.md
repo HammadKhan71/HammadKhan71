@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:0a192f,100:00d4ff&height=220&section=header&text=HAMMAD%20ULLAH%20KHAN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Computer%20Vision%20%E2%80%94%20Full%20Stack&descAlignY=65&descColor=00d4ff&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:0a192f,100:00d4ff&height=180&section=header&text=Hammad%20Ullah%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 
 </div>
 
@@ -18,84 +18,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HammadKhan71)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadullahkhan71@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=HammadKhan71&color=00d4ff&style=for-the-badge&label=VIEWS)
-
-</div>
-
----
-
-## About Me
-
-```python
-class HammadUllahKhan:
-
-    name         = "Hammad Ullah Khan"
-    role         = "AI / ML Engineer"
-    university   = "FAST NUCES Islamabad  —  BS Artificial Intelligence  (2024 – 2028)"
-    location     = "Islamabad, Pakistan"
-
-    focus = [
-        "Agentic AI & Autonomous Systems",
-        "Computer Vision  (YOLOv8, CNNs, OpenCV)",
-        "Geospatial Deep Learning  (Sentinel-II, NDVI, NDWI)",
-        "Full-Stack Web  (JS, Supabase, PostgreSQL)",
-    ]
-
-    building_now = [
-        "Advanced Agentic AI pipelines",
-        "Geospatial crop-intelligence platform",
-        "Scalable AI-powered web applications",
-    ]
-
-    clubs = [
-        "AI, Computing & Data Science Society — FAST",
-        "Google Developers Club — FAST",
-    ]
-
-    outside_code = ["Geopolitics", "Marathons", "Polo", "Squash"]
-```
-
----
-
-## Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**GreenAI — AI/ML Intern**
-`Sep 2025 – Jan 2026  ·  Islamabad`
-
-- Trained CNNs and regression models for automated crop classification
-- Processed multispectral satellite and drone imagery at scale
-- Extracted geospatial indices — **NDVI, NDWI, BSI** — for agricultural monitoring
-
-</td>
-<td width="50%" valign="top">
-
-**NASTP — AI/ML Intern**
-`Jun 2025 – Aug 2025  ·  Islamabad`
-
-- Developed AI models for crop-type classification, health assessment, and yield prediction
-- Pre-processed Sentinel-II, GPSAR, and drone imagery into multiband rasters
-- Evaluated predictive models across **1,000+ wheat fields**
-
-</td>
-</tr>
-</table>
-
----
-
-## Projects
-
-<div align="center">
-
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| **MARS Rover 2.0** | Fully autonomous rover — YOLOv8 object detection + Point Cloud SLAM on Raspberry Pi, real-time obstacle avoidance and robotic arm control | Python · YOLOv8 · ROS · RPi |
-| **Crop Weed Detector** | Computer vision pipeline identifying 4 major Pakistani weed species using shape, water, and vegetation spectral indices | YOLOv5 · OpenCV · Python |
-| **UniSync** | Centralized platform for FAST students — digital ticketing with automated QR verification, club chat rooms, cloud DB | JavaScript · Supabase · PostgreSQL |
-| **RideFlow** | Ride-hailing platform with full RBAC, real-time ride tracking, digital payments, and live admin analytics | Vanilla JS · Supabase · PostgreSQL |
-| **Movie Dataset Manager** | Recommendation engine over 5,000+ IMDB records using STL-free C++ — AVL Trees, Hash Tables, BFS/DFS pathfinding | C++ · Data Structures |
 
 </div>
 
@@ -189,32 +111,7 @@ class HammadUllahKhan:
 
 ---
 
-## Activity Graph
-
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HammadKhan71&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## Leadership
-
-| Role | Organization | Impact |
-|------|-------------|--------|
-| **Team Lead** | NASCON Technology Convention | Directed computing events; secured corporate sponsorships from Devsinc and TeraData |
-| **Volunteer** | The Lighthouse Orphanage | Mentored children in education and extracurricular activities |
-| **Member** | AI, Computing & Data Science Society — FAST | Active contributor |
-| **Member** | Google Developers Club — FAST | Active contributor |
-
----
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00d4ff,60:0a192f,100:0d1117&height=120&section=footer&reversal=true" />
 
