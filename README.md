@@ -53,7 +53,6 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=HammadKhan71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&cache_seconds=1800"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadKhan71&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800"/>
 
 </div>
@@ -98,10 +97,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00d4ff,60:0a192f,100:0d1117&height=120&section=footer&reversal=true" />
-
-</div>
