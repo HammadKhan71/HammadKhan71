@@ -12,7 +12,7 @@
 
 ---
 
-## GitHub Stats
+## My Github Stats
 
 <div align="center">
 
