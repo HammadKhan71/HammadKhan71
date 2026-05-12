@@ -8,8 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadullahkhan1)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HammadKhan71)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadullahkhan71@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=HammadKhan71&color=00d4ff&style=for-the-badge&label=VIEWS)
 
 </div>
 
