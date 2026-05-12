@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:0a192f,100:00d4ff&height=180&section=header&text=Hammad%20Ullah%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:0a192f,100:1a5276&height=180&section=header&text=Hammad%20Ullah%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=Building+autonomous+AI+systems+from+the+ground+up;Computer+Vision+%7C+Agentic+AI+%7C+Geospatial+ML;Turning+satellite+data+into+intelligence;FAST+NUCES+%E2%80%94+BS+Artificial+Intelligence+%E2%80%94+2024%E2%80%932028)](https://git.io/typing-svg)
-
-</div>
-
-<br>
 
 <div align="center">
 
