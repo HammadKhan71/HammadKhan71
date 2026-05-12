@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=Hammad%20Ullah%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=__________________________&descAlignY=80&descColor=00d4ff&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a0a0a,100:0d1117&height=200&section=header&text=Hammad%20Ullah%20Khan&fontSize=55&fontColor=00d4ff&animation=twinkling&fontAlignY=55&stroke=00d4ff&strokeWidth=1" />
 
 </div>
 
